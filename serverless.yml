@@ -1,5 +1,5 @@
 # Serving HTML through API Gateway for AWS Lambda
-service: serve-dynamic-html-via-http-endpoint
+service: serverless
 
 frameworkVersion: ">=1.1.0 <2.0.0"
 
